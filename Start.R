@@ -19,3 +19,4 @@ usethis::use_git_hook(
   exit 1
   fi'
 )
+print("conflict")
