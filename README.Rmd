@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of Friday08 is to ...
+The goal of Friday08 is to test git capabilities.
 
 What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
 
@@ -33,3 +33,4 @@ plot(pressure)
 ```
 
 In that case, don't forget to commit and push the resulting figure files, so they display on GitHub.
+
